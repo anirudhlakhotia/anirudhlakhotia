@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhlakhotia&show_icons=true&theme=dark)
+
 
 <!--
 **anirudhlakhotia/anirudhlakhotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
