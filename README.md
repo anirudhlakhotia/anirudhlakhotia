@@ -1,5 +1,5 @@
 ### Hi there!
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhlakhotia&show_icons=true&theme=dark)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhlakhotia&show_icons=true&theme=dark&title_color=#39ff14)
 
 
 <!--
