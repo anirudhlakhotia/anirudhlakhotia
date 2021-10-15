@@ -28,7 +28,7 @@
 
   
 #### 💻 My Stats:
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhlakhotia&show_icons=true&theme=chartreuse-dark)  
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhlakhotia&show_icons=true&theme=chartreuse-dark)    
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhlakhotia&layout=compact)](https://github.com/anirudhlakhotia/github-readme-stats)
 
