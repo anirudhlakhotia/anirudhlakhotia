@@ -38,10 +38,10 @@
 
 ### 💬 Ask me about 
 ***Space*** <img src="https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1634273508~hmac=6a6050ce21c789bbe9fb27284d87c602" height="16">  
-***Time Travel*** <img src="https://img-premium.flaticon.com/png/512/2382/premium/2382564.png?token=exp=1628602579~hmac=a169c084c377551324d179cdffa0adbe" height="16">  
+***Time Travel*** <img src="https://cdn-icons-png.flaticon.com/512/4231/4231723.png" height="16">  
 ***Android***<img src="https://image.flaticon.com/icons/png/512/888/888839.png" height="16">    
 ***Pokemon*** <img src="http://i.imgur.com/wFJgJO8.png" height="16">  
-***Anime*** <img src="https://img-premium.flaticon.com/png/512/1881/premium/1881021.png?token=exp=1628603031~hmac=e0d90b5c0732bc209791a334a7a6000e" height="18">
+***Anime*** <img src="https://cdn-icons.flaticon.com/png/512/1881/premium/1881021.png?token=exp=1634273603~hmac=182f3bb3444747259ddb850b6ebcfadc" height="18">
 <!--
 **anirudhlakhotia/anirudhlakhotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
