@@ -37,7 +37,7 @@
 
 
 ### 💬 Ask me about 
-***Space*** <img src="https://img-premium.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1628602497~hmac=08f84b75b7fc93d5b52ea9bf464acf8a" height="16">  
+***Space*** <img src="https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1634273508~hmac=6a6050ce21c789bbe9fb27284d87c602" height="16">  
 ***Time Travel*** <img src="https://img-premium.flaticon.com/png/512/2382/premium/2382564.png?token=exp=1628602579~hmac=a169c084c377551324d179cdffa0adbe" height="16">  
 ***Android***<img src="https://image.flaticon.com/icons/png/512/888/888839.png" height="16">    
 ***Pokemon*** <img src="http://i.imgur.com/wFJgJO8.png" height="16">  
