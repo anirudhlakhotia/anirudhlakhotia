@@ -1,5 +1,6 @@
 ### Hi there!
-### I am Anirudh Lakhotia, a friendly learner and Tech Enthusiast
+### I am Anirudh Lakhotia, a student of CSE at PES University, Bengaluru
+
   
  #### ✨ I’m comfortable with:  
    
