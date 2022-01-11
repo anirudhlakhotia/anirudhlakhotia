@@ -33,9 +33,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhlakhotia&layout=compact)](https://github.com/anirudhlakhotia/github-readme-stats)
 
-<!-- #### 🖥️ My Repositories:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=Covidash2.0)](https://github.com/anirudhlakhotia/Covidash2.0&theme=vision-friendly-dark)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=mission-control)](https://github.com/anirudhlakhotia/mission-control&theme=vision-friendly-dark) -->
+#### 🖥️ My Repositories:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=tulip)](https://github.com/anirudhlakhotia/Covidash2.0&theme=vision-friendly-dark)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=mission-control)](https://github.com/anirudhlakhotia/mission-control&theme=vision-friendly-dark) 
 
 
 ### 💬 Ask me about 
