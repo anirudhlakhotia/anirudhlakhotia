@@ -33,10 +33,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhlakhotia&layout=compact)](https://github.com/anirudhlakhotia/github-readme-stats)
 
-#### 🖥️ My Repositories:
+<!---#### 🖥️ My Repositories:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=tulip)](https://github.com/anirudhlakhotia/Covidash2.0&theme=vision-friendly-dark)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=mission-control)](https://github.com/anirudhlakhotia/mission-control&theme=vision-friendly-dark) 
-
+--->
 
 ### 💬 Ask me about 
 ***Space*** <img src="https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1641312422~hmac=b5fe8227025d62215e97d9a130db58b5" height="16">  
