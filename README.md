@@ -39,7 +39,7 @@
 --->
 
 ### 💬 Ask me about 
-***Space*** <img src="https://cdn-icons.flaticon.com/png/512/3227/premium/3227017.png?token=exp=1641312422~hmac=b5fe8227025d62215e97d9a130db58b5" height="16">  
+***Space*** <img src="https://cdn-icons-png.flaticon.com/512/3919/3919942.png" height="16">  
 ***Time Travel*** <img src="https://cdn-icons-png.flaticon.com/512/4231/4231723.png" height="16">  
 ***Android***<img src="https://image.flaticon.com/icons/png/512/888/888839.png" height="16">    
 ***Pokemon*** <img src="http://i.imgur.com/wFJgJO8.png" height="16">  
