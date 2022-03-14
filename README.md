@@ -44,7 +44,7 @@
 ***Time Travel*** <img src="https://cdn-icons-png.flaticon.com/512/4231/4231723.png" height="16">  
 ***Android***<img src="https://image.flaticon.com/icons/png/512/888/888839.png" height="16">    
 ***Pokemon*** <img src="http://i.imgur.com/wFJgJO8.png" height="16">  
-***Anime*** <img src="https://cdn-icons.flaticon.com/png/512/1881/premium/1881021.png?token=exp=1641312593~hmac=19f410844267342173575fcdae1a1f7e" height="18">      
+***Anime*** <img src="https://cdn-icons-png.flaticon.com/512/1342/1342980.png" height="18">      
 ***Anything*** <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" height="18">
 <!--
 **anirudhlakhotia/anirudhlakhotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
