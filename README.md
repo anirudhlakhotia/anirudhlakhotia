@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhlakhotia&layout=compact)](https://github.com/anirudhlakhotia/github-readme-stats)
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanirudhlakhotia&labelColor=%23d9e3f0&countColor=%23132136)
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanirudhlakhotia&labelColor=%23d9e3f0&countColor=%23132136) -->
 <!---#### 🖥️ My Repositories:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=tulip)](https://github.com/anirudhlakhotia/Covidash2.0&theme=vision-friendly-dark)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=anirudhlakhotia&repo=mission-control)](https://github.com/anirudhlakhotia/mission-control&theme=vision-friendly-dark) 
