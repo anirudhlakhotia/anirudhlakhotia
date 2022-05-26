@@ -1,6 +1,10 @@
 ### Hi there!
-### I am Anirudh Lakhotia, a student of CSE at PES University, Bengaluru
-
+I’m Anirudh Lakhotia, a student at PES University, Bangalore, India, pursuing my Bachelor’s of Technology in Computer Science Engineering. I am a technology enthusiast, who is always looking to expand my knowledge.  
+I love sports, anime, science, space, and technology amongst other things.   
+I am always looking to learn something new because I believe that there is no limit to how much you can learn in a lifetime.  
+I started programming at the age of 13 when we were taught C at school. In my first practical exam, the task given to me was to perform some computation on the input provided and display the output. It was a basic task, and I finished it with time on my hands.  
+With nothing else to do, I began to explore the options in the help section when I came across cprintf, which would display the output in color.  
+That was how my habit of always going the extra mile came into being ;)
   
  #### ✨ I’m comfortable with:  
   
