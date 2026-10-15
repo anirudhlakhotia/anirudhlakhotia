@@ -1,46 +1,34 @@
-Software Engineer at [Couchbase](https://www.couchbase.com/) · Information Retrieval · Efficient ML
+**Software Engineer at [Couchbase](https://www.couchbase.com/)**
 
 [Website](https://anirudhlakhotia.com) · [Google Scholar](https://scholar.google.com/citations?user=2hf7A6UAAAAJ) · [LinkedIn](https://www.linkedin.com/in/anirudhlakhotia/)
 
-> I am interested in how representations behave under practical constraints.
-> They have to preserve useful structure while remaining cheap to store and fast
-> to serve.
+> I study representations in machine learning: what they encode, how they change, and what structure survives adaptation or compression.
+
+**Interests:** Representation learning · Language-model behavior & reasoning · Efficient post-training & adaptation · Neural retrieval
 
 ## Research
 
-### [Most MaxSim Winners Flip, Retrieval Survives](https://github.com/anirudhlakhotia/subbit-multivector-retrieval)
+[**Most MaxSim Winners Flip, Retrieval Survives**](https://github.com/anirudhlakhotia/subbit-multivector-retrieval)\
+*ReNeuIR @ SIGIR 2026*
 
-*ReNeuIR Workshop @ SIGIR 2026*
-
-Sign coding flips most token-level MaxSim winners, yet retrieval survives because
-the substitutes are low-margin. A random projection matches a trained one at
-matched storage, and an fp32 rerank of the top 100 candidates recovers fp32
-MRR@10.
+Extreme compression changes most token-level matches, yet retrieval remains robust through low-margin substitutions.
 
 [Paper](https://github.com/anirudhlakhotia/subbit-multivector-retrieval/blob/main/paper/paper_reneuir.pdf) · [Code](https://github.com/anirudhlakhotia/subbit-multivector-retrieval) · [Reproducibility](https://github.com/anirudhlakhotia/subbit-multivector-retrieval/blob/main/REPRODUCIBILITY.md)
 
-### [UnoLoRA: Single Low-Rank Adaptation for Efficient Multitask Fine-tuning](https://openreview.net/forum?id=n6W0QkQBgw)
+[**UnoLoRA: Single Low-Rank Adaptation for Efficient Multitask Fine-tuning**](https://anirudhlakhotia.com/publications/#kamalesh2024unolora)\
+*FITML @ NeurIPS 2024*
 
-*FITML Workshop @ NeurIPS 2024*
+A single shared low-rank adapter supports efficient fine-tuning across multiple tasks.
 
-One shared low-rank adapter supports multitask fine-tuning without duplicating a
-separate adapter for every task.
+[Paper](https://anirudhlakhotia.com/assets/pdf/unolora_multitask_finetuning.pdf) · [OpenReview](https://openreview.net/forum?id=n6W0QkQBgw)
 
-### [Sampling Strategies for Multi-Task Learning](https://anirudhlakhotia.com/publications/#lakhotia2025sampling)
-
+[**Analysis of Sampling Strategies for Multi-Task Learning in Transformer Models**](https://anirudhlakhotia.com/publications/#lakhotia2025sampling)\
 *ICEENG 2025*
 
-Task-sampling strategies produce different internal representations even when
-aggregate multitask performance is similar.
+Task-sampling strategies shape the internal representations learned by transformers.
 
-### Current work
+[Paper](https://anirudhlakhotia.com/assets/pdf/iceeng2025_sampling_strategies.pdf)
 
-I am working on compositionality in learned representations, and how to separate
-learned structure from dataset-level effects.
+---
 
-## Engineering
-
-At Couchbase I build SDKs and connectors for production data systems. My
-[public contributions](https://github.com/search?q=is%3Apr+author%3Aanirudhlakhotia+is%3Amerged+org%3Acouchbase+org%3Acouchbaselabs&type=pullrequests)
-span the Python, Node.js, JVM and C++ clients, analytics SDKs, and integration
-and test infrastructure.
+Feel free to [email me](mailto:anirudhlakhotia5@gmail.com). I'm paying Google for the extra storage anyway.
