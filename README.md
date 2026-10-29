@@ -13,7 +13,7 @@
 
 Extreme compression changes most token-level matches, yet retrieval remains robust through low-margin substitutions.
 
-[Paper](https://github.com/anirudhlakhotia/subbit-multivector-retrieval/blob/main/paper/paper_reneuir.pdf) · [Code](https://github.com/anirudhlakhotia/subbit-multivector-retrieval) · [Reproducibility](https://github.com/anirudhlakhotia/subbit-multivector-retrieval/blob/main/REPRODUCIBILITY.md)
+[Paper](https://anirudhlakhotia.com/assets/pdf/maxsim-winners-flip-retrieval-survives.pdf) · [Code](https://github.com/anirudhlakhotia/subbit-multivector-retrieval) · [Reproducibility](https://github.com/anirudhlakhotia/subbit-multivector-retrieval/blob/main/REPRODUCIBILITY.md)
 
 [**UnoLoRA: Single Low-Rank Adaptation for Efficient Multitask Fine-tuning**](https://anirudhlakhotia.com/publications/#kamalesh2024unolora)\
 *FITML @ NeurIPS 2024*
